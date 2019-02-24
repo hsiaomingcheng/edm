@@ -82,6 +82,9 @@ class name會被替換掉所以就吃不到你的css樣式了
 打完後在幾個不同信箱檢查過後很開心的給設計師看
 設計師卻說 為什麼在手機看 文字跟圖片 這麼的小
 能不能在手機上的時候放大
+![](https://i.imgur.com/1NBnu5D.png)
+
+
 
 
 ## 重切 (div)
@@ -93,7 +96,10 @@ class name會被替換掉所以就吃不到你的css樣式了
 除了一開始用了個table > tr > td 之後全都是div
 所以我也學著他做了一個
 
-之後在手機上看就成功地把 aaa 跟 bbb 給分成一上一下且滿版 
+之後在手機上看就成功地把 aaa 跟 bbb 給分成一上一下且滿版
+![](https://i.imgur.com/48Pwzq4.png)
+
+
 ``` HTML=
 <style>
     @media (max-width: 420px) {
