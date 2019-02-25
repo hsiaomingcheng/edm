@@ -104,7 +104,7 @@ class name會被替換掉所以就吃不到你的css樣式了
 <style>
     @media (max-width: 420px) {
         .mailImgBox {
-            display: table-row !important;
+            display: block !important;
             text-align: center !important;
         }
     }
